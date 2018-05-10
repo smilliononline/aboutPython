@@ -1,32 +1,31 @@
 * {
-    margin: 0;
+    margin: 0px;
     outline: red dashed 1px;
     
 }
 .container {
     background-color: darkblue;
     width: 970px;
-    margin: 0 auto;
+    margin: 0px auto;
 }
-header {
-    width: 100%;
-
+header img {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+#headerRight {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+#searchBar {
+    padding:20px;
+    width: 60%;
+    margin-left: 250px;
+    background-color: rgb(54, 52, 52);
+    border-radius: 15px;
 }
 header p {
-    width: 20%;
-    margin-left: 15%;
-    display: inline-block;
-    vertical-align: top;
-   
+    width: 40%;
+    margin-left: 320px;
 }
-#searchBar  {
-    padding: 20px;
-    background-color: rgb(32, 31, 31);
-    width: 22%;
-    border-radius: 10%;
-    margin-left:65%;
-    vertical-align: top;
-    display: inline-block;
-    
-}
-
