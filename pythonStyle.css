@@ -3,4 +3,12 @@
     outline: red dashed 1px;
     
 }
+.container {
+    background-color: darkblue;
+    width: 970px;
+}
+header {
+    width: 100%;
+    
+}
 
